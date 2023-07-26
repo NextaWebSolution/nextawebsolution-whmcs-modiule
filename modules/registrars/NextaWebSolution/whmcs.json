@@ -1,0 +1,12 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "NextaWebSolution",
+  "license": "proprietary",
+  "category": "domains",
+  "description": {
+    "name": "NextaWebSolution",
+    "tagline": "",
+    "long": "Don&#039;t have a Reseller Account yet? Get one here: www.nextawebsolution.com/domain-reseller"
+  }
+}
